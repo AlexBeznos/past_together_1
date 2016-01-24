@@ -1,0 +1,8 @@
+/*
+/*
+ *= require_self
+ *= require dropzone
+ *= require_tree .
+ */
+@import "bootstrap";
+@import "bootstrap-sprockets";
